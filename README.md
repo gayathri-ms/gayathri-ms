@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 ,I'm Gayathri.M.S </h1>
 <h2 align="center">
-  an enthusiastic Web developer
+  an enthusiastic Full Stack Developer
 </h2>
 
 </br>
@@ -11,14 +11,14 @@
 <li>
 I am currently a 3rd year CSE student at IIIT Bhubaneswar</li>
 <li>
-Web developer
+Full Stack Developer
 </li>
 <li>Competitive Programmer
 </ul>
 
 ## Languages & Tools:
 
-C/C++, Javascript, NodeJs, Postgresql, HTML/CSS, React js, Redux ,Bootstrap, Typescript
+C/C++, Javascript, ReactJS, NodeJs, Postgresql, MongoDB, HTML/CSS, Tailwind, Redux, Bootstrap, Typescript, Pyhton, Golang, SQL
 
 ## :telephone: Let's Connect
 
